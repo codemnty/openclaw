@@ -30,6 +30,7 @@ Fast CLI to summarize URLs, local files, and YouTube links.
 
 Use this skill immediately when the user asks any of:
 
+- “give me the gist” / “what’s the gist of this?”
 - “use summarize.sh”
 - “what’s this link/video about?”
 - “summarize this URL/article”
